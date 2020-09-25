@@ -113,9 +113,7 @@ totalScore()
 ```
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+This program has a bug. Sometimes the user score and the computer score gets printed and sometimes it doesn't. Comments and suggestions are welcome and let me know if anyone has a way to debug the program
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT] Swastik Sarkar 
